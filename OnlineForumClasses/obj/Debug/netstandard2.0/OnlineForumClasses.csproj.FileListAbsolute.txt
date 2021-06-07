@@ -1,0 +1,9 @@
+H:\Documents\FYP\Final Year Project\OnlineForumClasses\bin\Debug\netstandard2.0\OnlineForumClasses.deps.json
+H:\Documents\FYP\Final Year Project\OnlineForumClasses\bin\Debug\netstandard2.0\OnlineForumClasses.dll
+H:\Documents\FYP\Final Year Project\OnlineForumClasses\bin\Debug\netstandard2.0\OnlineForumClasses.pdb
+H:\Documents\FYP\Final Year Project\OnlineForumClasses\obj\Debug\netstandard2.0\OnlineForumClasses.csprojAssemblyReference.cache
+H:\Documents\FYP\Final Year Project\OnlineForumClasses\obj\Debug\netstandard2.0\OnlineForumClasses.csproj.CoreCompileInputs.cache
+H:\Documents\FYP\Final Year Project\OnlineForumClasses\obj\Debug\netstandard2.0\OnlineForumClasses.AssemblyInfoInputs.cache
+H:\Documents\FYP\Final Year Project\OnlineForumClasses\obj\Debug\netstandard2.0\OnlineForumClasses.AssemblyInfo.cs
+H:\Documents\FYP\Final Year Project\OnlineForumClasses\obj\Debug\netstandard2.0\OnlineForumClasses.dll
+H:\Documents\FYP\Final Year Project\OnlineForumClasses\obj\Debug\netstandard2.0\OnlineForumClasses.pdb
